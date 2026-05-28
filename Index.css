@@ -1,0 +1,46 @@
+body{
+    background-color: #000000;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("istockphoto-826489982-170667a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: #7f0606;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+nav{
+  background-color: #e5e6c1;
+  padding: 5px 80px;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+#About{
+    margin: 10px;
+    margin-left: 1000px;
+    margin-top: 20px;
+    margin-right: 100px;
+    padding: 20px;
+    background-color: #e5e6c1;
+}
+button{
+  margin: 10px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-right: 100px;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: #e5e6c1;
+  color:#7f0606
+}
+#Together{
+    color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+    line-height: 1.%;
+}
